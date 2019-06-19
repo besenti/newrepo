@@ -75,16 +75,16 @@
 	</dependencies>
 
 	<build>
-		<resources>
-			<resource>
-				<directory>src/main/resources</directory>
-				<includes>
-					<include>planets.csv</include>
-					<include>routes.csv</include>
-					<include>traffic.csv</include>
-				</includes>
-			</resource>
-		</resources>
+<!--		<resources>-->
+<!--			<resource>-->
+<!--				<directory>src/main/resources</directory>-->
+<!--				<includes>-->
+<!--					<include>planets.csv</include>-->
+<!--					<include>routes.csv</include>-->
+<!--					<include>traffic.csv</include>-->
+<!--				</includes>-->
+<!--			</resource>-->
+<!--		</resources>-->
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
